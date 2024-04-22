@@ -21,3 +21,10 @@ Test cases:
 for 5 days: 14/29
 for 10 days: 372/773
 
+
+## Solution
+
+Run the solution.py and give the required inputs to test the solution
+
+python solution.py
+10
